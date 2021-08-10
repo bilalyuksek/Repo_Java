@@ -25,5 +25,21 @@ public class Homework {
         kTemp = 400;
         fTemp = kTemp * 9 / 5 - 459.67;
         System.out.println("fTemp = " + fTemp);
+
+        kTemp = 500;
+        fTemp = kTemp * 9 / 5 - 459.67;
+        System.out.println("fTemp = " + fTemp);
+
+        kTemp = 3000;
+        fTemp = kTemp * 9 / 5 - 459.67;
+        System.out.println("fTemp = " + fTemp);
+
+        fTemp = 135;
+        cTemp = fTemp - 32 * 5 / 9;
+        System.out.println("cTemp = " + cTemp);
+
+
+
+
     }
 }
